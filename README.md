@@ -9,9 +9,9 @@ My name is Jonathan Ling and I'm a software engineer at Actabl. My responsibilit
 In my spare time I like to:
 * Work on open source software projects like:
   - [Node-Virtualization/node-virtualbox](https://github.com/Node-Virtualization/node-virtualbox)
-  - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine)
-  - [My personal home server scripts](https://github.com/colonelpopcorn/home-server)
-  - [My sandbox/learning repository](https://github.com/colonelpopcorn/sandbox)
+  - [colonelpopcorn/rippr](https://gitlab.com/colonelpopcorn/rippr)
+  - [My personal home server scripts](https://gitlab.com/colonelpopcorn/home-server)
+  - [My sandbox/learning repository](https://gitlab.com/colonelpopcorn/sandbox)
 
 <!--
 **colonelpopcorn/colonelpopcorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
