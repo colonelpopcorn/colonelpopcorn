@@ -1,10 +1,10 @@
 ### Hi there 👋
-My name is Jonathan Ling and I'm a software engineer at Actabl. My responsibilities there include:
-- Front end UI development with Angular 10
-- Back end API development with Java 8, Java 17, and Kotlin on AWS Lambda
+My name is Jonathan Ling and I'm a software engineer at the TVA. My responsibilities there include:
+- Front end UI development with Angular 17 and Ionic
+- Back end API development with C# and dotnet
 - Scripting tasks I don't want to do more than once
-- Posting links to cool new tech in Slack
-- Jenkins build server administration
+- Posting links to cool new tech in Teams
+- ADO pipeline development
 
 In my spare time I like to:
 * Work on open source software projects like:
